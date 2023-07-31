@@ -1,0 +1,12 @@
+*.iml
+nb-configuration.xml
+.classpath
+.project
+
+
+.idea/
+.vscode/
+.settings/
+depend/
+target/*
+
